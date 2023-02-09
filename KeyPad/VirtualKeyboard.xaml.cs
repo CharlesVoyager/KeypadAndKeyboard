@@ -19,7 +19,7 @@
  */
 
 /*
- * Added by Charles Chang.
+ * Added by Charles Chang on Feb.9, 2023.
  * 
  * Based the code by Michele Cattafesta, changed button style and fixed window size as 800 x 600.
  * 
